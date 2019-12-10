@@ -1,13 +1,5 @@
-# Unity Package Example
+# Unity Package Example Subtree
 
-## Installation
-
-<https://docs.unity3d.com/Packages/com.unity.package-manager-ui@2.0/manual/index.html>
-
-```json
-{
-    "dependencies": {
-        "com.namespace.unitypackageexample": "https://github.com/neogeek/unity-package-example.git#upm"
-    }
-}
-```
+A fork of [eogeek/unity-package-example](https://github.com/eogeek/unity-package-example)
+- package folder located at [Assets/Plugins/UnityPackageExample](https://github.com/favoyang/unity-package-example-substree/tree/master/Assets/Plugins/UnityPackageExample)
+- tag [v1.0.0](https://github.com/favoyang/unity-package-example-substree/releases/tag/v1.0.0) is a subtree of the package folder
